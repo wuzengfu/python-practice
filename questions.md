@@ -13,6 +13,7 @@
 The first two numbers are `0` and `1` as they are starting numbers stated in the question. For the rest of numbers:
 
 - 1 = 1 + 0
+- 2 = 1 + 1
 - 3 = 1 + 2
 - 5 = 3 + 2
 - 8 = 5 + 3
