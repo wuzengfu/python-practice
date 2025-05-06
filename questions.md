@@ -1,6 +1,6 @@
 # Python Practice Problems
 
-### 1. Sum of Previous Two
+## 1. Sum of Previous Two
 
 > Output a sequence of numbers between 0 and 500 (inclusive) such that the i-th element is the sum of the previous two elements (e.g. (i-1)-th and (i-2)-th). The first two numbers of the sequence is 0 and 1.
 
@@ -18,7 +18,7 @@ The first two numbers are `0` and `1` as they are starting numbers stated in the
 - 8 = 5 + 3
 - 13 = 8 + 5
 
-### 2. Beautiful Numbers
+## 2. Beautiful Numbers
 
 > A beautiful number is an integer such that it is divisible by 3 but not by 5. Output all beautiful numbers between 1 and 100 (inclusive).
 
@@ -30,7 +30,7 @@ The first two numbers are `0` and `1` as they are starting numbers stated in the
 
 All these numbers are divisible by 3. Note that `15` is not a beautiful number as `15` is divisible by 5.
 
-### 3. Time Converter
+## 3. Time Converter
 
 > Create a time converter that takes in an integer - `seconds` as input. Convert the `seconds` to `hours`, `minutes` and `seconds`.
 
@@ -46,7 +46,7 @@ All these numbers are divisible by 3. Note that `15` is not a beautiful number a
 
 5103 seconds is equivalent to 1 hour, 25 minutes and 3 seconds.
 
-### 4. Reversed Integer
+## 4. Reversed Integer
 
 > Take in an integer as input, output its reversed integer.
 
@@ -62,7 +62,7 @@ All these numbers are divisible by 3. Note that `15` is not a beautiful number a
 
 Reversing the number `291804` gives `408192`.
 
-### 5. Reverse an Array
+## 5. Reverse an Array
 
 > Take in an integer `n` - size of the array, `arr` - an array of size n. Output the reversed array.
 
@@ -79,7 +79,7 @@ Reversing the number `291804` gives `408192`.
 
 The output is the reversed array of `arr` by reading the value from right to left.
 
-### 6. Merge Two Sorted Arrays of Same Size
+## 6. Merge Two Sorted Arrays of Same Size
 
 > Take in an integer `n` - size of arrays, `arr1` and `arr2` - two sorted arrays of size n in ascending order as inputs. Output a merged array such that it is also sorted in ascending order.
 
